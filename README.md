@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dilshan Karunarathne</h1>
-<h3 align="center">A Computer Science student from Sri Lanka</h3>
+<h1 align="center">Dilshan M. Karunarathne</h1>
+
+<img align="center" src="https://phoenixfreehost.000webhostapp.com/uploads/profileoic.jpg" alt="dilshan" height="320" width="320" />
+
+<h3 align="center">I'm a Computer Science student from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bullshitphoenix&label=Profile%20views&color=0e75b6&style=flat" alt="bullshitphoenix" /> </p>
 
@@ -34,6 +37,6 @@
 
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bullshitphoenix&show_icons=true&locale=en&layout=compact" alt="bullshitphoenix" /></p>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bullshitphoenix&show_icons=true&locale=en" alt="bullshitphoenix" /></p>
 
