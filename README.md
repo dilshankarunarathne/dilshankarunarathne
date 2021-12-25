@@ -2,7 +2,10 @@
 
 <center><img align="center" src="https://phoenixfreehost.000webhostapp.com/uploads/background.jpg" alt="dilshan" /></center>
 
-<h3 align="center">I'm a Computer Science student from Sri Lanka</h3>
+<h3 align="center">
+  I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer and a blogger. Interested in de-centralized application development. I have studied
+  Computer Science, Cryptography, Computer Architecture and Web app development. 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bullshitphoenix&label=Profile%20views&color=0e75b6&style=flat" alt="bullshitphoenix" /> </p>
 
@@ -38,6 +41,6 @@
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bullshitphoenix&show_icons=true&locale=en&layout=compact" alt="bullshitphoenix" /></p>
 <br><br>
-<p> &nbsp;</p>
+<p> &nbsp; &nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bullshitphoenix&show_icons=true&locale=en" alt="bullshitphoenix" /></p>
 
