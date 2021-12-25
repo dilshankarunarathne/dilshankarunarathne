@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, Haskell, Go, Java, C#, C++, Assembly, Ruby, Perl, Rust, PHP**
 
-- 📫 How to reach me **maleeshasparrow@gmail.com**
+- 📫 Reach me at: **maleeshasparrow@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +38,6 @@
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bullshitphoenix&show_icons=true&locale=en&layout=compact" alt="bullshitphoenix" /></p>
 <br><br>
+<p> &nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bullshitphoenix&show_icons=true&locale=en" alt="bullshitphoenix" /></p>
 
