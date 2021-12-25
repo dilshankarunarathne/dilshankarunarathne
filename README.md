@@ -1,6 +1,6 @@
 <h1 align="center">Dilshan M. Karunarathne</h1>
 
-<center><img align="center" src="https://phoenixfreehost.000webhostapp.com/uploads/profileoic.jpg" alt="dilshan" height="320" width="320" /></center>
+<center><img align="center" src="https://phoenixfreehost.000webhostapp.com/uploads/background.jpg" alt="dilshan" height="320" width="320" /></center>
 
 <h3 align="center">I'm a Computer Science student from Sri Lanka</h3>
 
