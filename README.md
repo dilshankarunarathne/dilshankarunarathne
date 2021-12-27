@@ -40,8 +40,7 @@
 <p><a href="https://www.buymeacoffee.com/wmdilshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p><br><br>
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&locale=en&layout=compact" alt="dilshankarunarathne" /></p>
-<br><br>
-<p> &nbsp; &nbsp;</p>
+<p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&locale=en" alt="dilshankarunarathne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dark" alt="dilshankarunarathne" /></p>
