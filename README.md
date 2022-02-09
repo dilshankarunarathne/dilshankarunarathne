@@ -46,7 +46,7 @@
 <p></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dilshankarunarathne" />    
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en" alt="dilshankarunarathne" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en" alt="dilshankarunarathne" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dark" alt="dilshankarunarathne" /></p>
 
