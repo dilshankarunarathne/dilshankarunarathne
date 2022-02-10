@@ -49,4 +49,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en" alt="dilshankarunarathne" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dark" alt="dilshankarunarathne" /></p>
-
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
