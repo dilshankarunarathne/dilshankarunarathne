@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne" alt="dilshankarunarathne" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/DilshanKarunar8" target="blank"><img src="https://img.shields.io/twitter/follow/karunarathne_wd?logo=twitter&style=for-the-badge" alt="DilshanKarunar8" /></a> </p>
 
 - 🔭 I’m currently working on [DCS Portal](http://dcsportal.tk/)
 
