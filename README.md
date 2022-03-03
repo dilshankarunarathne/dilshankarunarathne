@@ -40,9 +40,10 @@
 
 ![snake svg](https://github.com/dilshankarunarathne/dilshankarunarathne/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
 <h3 align="left">Support: </h3>
 <p><a href="https://www.buymeacoffee.com/wmdilshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p><br><br>
+
+<div align="center">
 
 <p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dilshankarunarathne" />    
