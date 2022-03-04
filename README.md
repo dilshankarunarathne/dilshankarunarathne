@@ -9,8 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="bullshitphoenix" /> </p>
 
+<div align="justify">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne" alt="dilshankarunarathne" /></a> </p>
-
+</div>
 
 - 🔭 I’m currently working on [DCS Portal](http://dcsportal.tk/)
 
