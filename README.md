@@ -7,10 +7,11 @@
   Computer Science, Cryptography, Computer Architecture and Web app development. 
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankarunarathne" /> </p>
+<p align="left">  </p>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
+  <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankarunarathne" />
+![](https://komarev.com/ghpvc/?username=dilshankarunarathne&style=flat-square&color=blueviolet)
 </div>
 
 <div align="center">
