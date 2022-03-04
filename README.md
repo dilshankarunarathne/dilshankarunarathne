@@ -48,17 +48,18 @@
 <h3 align="left">Support: </h3>
 <p><a href="https://www.buymeacoffee.com/wmdilshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p><br><br>
 
+<div align="center">
 ![snake svg](https://github.com/dilshankarunarathne/dilshankarunarathne/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 
 
 <div align="center">
 
 <p></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dilshankarunarathne" />    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
 <p></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en" alt="dilshankarunarathne" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="dilshankarunarathne" />
 <p></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
