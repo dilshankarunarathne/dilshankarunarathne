@@ -16,6 +16,11 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true&row=2&column=4" alt="dilshankarunarathne" />
 </div>
+<p></p><p></p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&title=MultiLanguage,Stars,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&row=2&column=4" alt="dilshankarunarathne" />
+</div>
+
 
 - 🌱 I’m currently learning **Node.js, React, Vue**
 
