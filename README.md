@@ -61,10 +61,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en" alt="dilshankarunarathne" />
 <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dark" alt="dilshankarunarathne" /></p>
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
+  </div>
 <p></p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+  <div align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 </div>
+
