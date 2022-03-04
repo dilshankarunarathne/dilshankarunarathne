@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="bullshitphoenix" /> </p>
 
 <div align="justify">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula" alt="dilshankarunarathne" />
+<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&margin-w=15" alt="dilshankarunarathne" />
 </div>
 
 - 🔭 I’m currently working on [DCS Portal](http://dcsportal.tk/)
