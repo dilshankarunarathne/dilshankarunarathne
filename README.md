@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="bullshitphoenix" /> </p>
 
-<div align="justify">
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true&row=2&column=4" alt="dilshankarunarathne" />
 </div>
 
