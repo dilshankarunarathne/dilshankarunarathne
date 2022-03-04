@@ -7,8 +7,8 @@
   Computer Science, Cryptography, Computer Architecture and Web app development. 
 </h3>
 
-<p align="left">  </p>
-
+<p>  </p>
+<p>  </p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&style=for-the-badge&color=blueviolet" alt="dilshankarunarathne" />
 </div>
