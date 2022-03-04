@@ -11,6 +11,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankarunarathne" />
+  <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&style=flat-square&color=blueviolet" alt="dilshankarunarathne" />
 ![](https://komarev.com/ghpvc/?username=dilshankarunarathne&style=flat-square&color=blueviolet)
 </div>
 
