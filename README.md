@@ -28,8 +28,6 @@
 
 - 💬 Ask me about **Python, Haskell, Go, Java, C#, C++, Assembly, Ruby, Perl, Rust, PHP**
 
-- 📫 Reach me at: **maleeshasparrow@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dilshankarunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dilshankarunarathne" height="30" width="40" /></a>
