@@ -22,11 +22,11 @@
 </div>
 
 
-- 🌱 I’m currently learning **Node.js, React, Vue**
+- 🌱 I’m currently learning **Xamarin**
 
 - 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
 
-- 💬 Ask me about **Python, Haskell, Go, Java, C#, C++, Assembly, Ruby, Perl, Rust, PHP**
+- 💬 Ask me about **Python, Java, C/C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
