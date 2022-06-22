@@ -57,9 +57,13 @@
 <h3 align="left">But, I am also familiar with:</h3>
 <p align="center"> 
 
+<!-- git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git</a> 
+
+
 <!-- frameworks -->
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> Django</a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> Django</a> 
 
 
 <!-- Clouds -->
