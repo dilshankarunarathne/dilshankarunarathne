@@ -54,7 +54,7 @@
 
 </p>
 
-<h3 align="left">But, I am also familiar with:</h3>
+<h3 align="left">I'm also familiar with:</h3>
 <p align="center"> 
 
 <!-- git -->
