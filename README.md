@@ -115,13 +115,17 @@
 <h3 align="left">Support me: </h3>
 <p><a href="https://www.buymeacoffee.com/wmdilshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p><br><br>
 
-
+<!-- grid snake -->
 <div align="center">
   <img src="https://github.com/dilshankarunarathne/dilshankarunarathne/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 
 <div align="center">
+
+<!-- top languages -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankarunarathne)](https://github.com/anuraghazra/github-readme-stats)
 
 <p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
