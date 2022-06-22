@@ -100,7 +100,9 @@
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> Node.js</a> 
 
+<!-- ceylon -->
 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ceylon/ceylon-original.svg" alt="nodejs" width="40" height="40"/> Ceylon</a> 
 
 </p>
 
