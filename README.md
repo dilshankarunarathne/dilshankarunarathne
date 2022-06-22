@@ -57,7 +57,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> Docker</a> 
 
 <!-- gradle -->
-https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg
+<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" alt="docker" width="40" height="40"/> Gradle</a> 
+
 
 </p>
 
