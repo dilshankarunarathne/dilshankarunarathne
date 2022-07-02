@@ -22,7 +22,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Xamarin**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
 
