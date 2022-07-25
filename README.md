@@ -22,7 +22,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Lisp**
 
 - 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
 
