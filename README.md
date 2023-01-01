@@ -1,7 +1,5 @@
 <h1 align="center">Dilshan M. Karunarathne</h1>
 
-<center><img align="center" src="https://phoenixfreehost.000webhostapp.com/uploads/background.jpg" alt="dilshan" /></center>
-
 <h3 align="center">
   I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer and a blogger. Interested in de-centralized application development. I have studied
   Computer Science, Cryptography, Computer Architecture and Web app development. Also an open-source enthusiast.
