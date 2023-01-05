@@ -20,7 +20,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
 
