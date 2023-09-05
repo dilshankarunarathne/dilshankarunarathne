@@ -74,7 +74,6 @@
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> Ruby</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP</a>
 
-<!-- ceylon -->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/ceylon/ceylon-original.svg" alt="nodejs" width="40" height="40"/> Ceylon</a> 
 
 
