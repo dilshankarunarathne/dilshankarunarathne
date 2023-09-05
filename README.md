@@ -1,6 +1,6 @@
 <h2>Dilshan M. Karunarathne (BCS Undergraduate)</h2>
 
-<div align="center">
+<div>
 
 <h3 align="left">Connect with me:</h3>
 
