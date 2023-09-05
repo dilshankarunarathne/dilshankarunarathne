@@ -36,9 +36,7 @@
 <a href="https://stackoverflow.com/users/17761023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17761023" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/dilshankarunarathn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshankarunarathn" height="30" width="40" />
 </a>
-<!--
-<a href="https://www.youtube.com/c/dilshan karunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshan karunarathne" height="30" width="40" /></a>
--->
+
 </p>
 
 
