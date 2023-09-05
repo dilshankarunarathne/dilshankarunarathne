@@ -20,12 +20,6 @@
 </div>
 
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
-
-- 💬 Ask me about **Python, Java, C/C++**
-
 <div align="center">
 
 <h3 align="left">Connect with me:</h3>
