@@ -15,6 +15,7 @@
 </div>
 
 
+<!--
 <div align="center">
 
 
@@ -28,6 +29,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
   </div>
 <p></p>
+
+-->
 
   <div align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ff79c6&aColor=%238be9fd&bgColor=%23282a36&textColor=%238be9fd" alt="Jokes Card" />
