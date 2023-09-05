@@ -9,11 +9,10 @@
 <a href="https://fb.com/dilshankarunarathn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshankarunarathn" height="30" width="40" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.buymeacoffee.com/wmdilshan" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"  />
+<a href="https://www.buymeacoffee.com/wmdilshan" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"  />
 </a>
 
 </div>
-
 
 <!--
 <div align="center">
