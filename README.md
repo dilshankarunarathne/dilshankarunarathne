@@ -2,8 +2,6 @@
 
 <div>
 
-<h3 align="left">Connect with me:</h3>
-
 <a href="https://dev.to/dilshankarunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dilshankarunarathne" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DilshanKarunar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DilshanKarunar8" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/dilshan-karunarathne-836789225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan-karunarathne-836789225" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,15 +17,9 @@
 
 <div align="center">
 
-<!-- top languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
-<p></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
-<p></p>
--->
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="dilshankarunarathne" />
