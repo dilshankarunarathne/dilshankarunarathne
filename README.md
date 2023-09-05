@@ -1,9 +1,5 @@
 <h1>Dilshan M. Karunarathne</h1>
 
-<h3 align="center">
-  
-</h3>
-
 <p></p><p></p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&style=for-the-badge&color=blueviolet" alt="dilshankarunarathne" />
