@@ -1,4 +1,4 @@
-<h1>Dilshan M. Karunarathne</h1>
+<h2>Dilshan M. Karunarathne (BCS Undergraduate)</h2>
 
 <p></p><p></p>
 <div align="center">
