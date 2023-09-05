@@ -1,8 +1,7 @@
-<h1 align="center">Dilshan M. Karunarathne</h1>
+<h1>Dilshan M. Karunarathne</h1>
 
 <h3 align="center">
-  I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer and a blogger. Interested in de-centralized application development. I have studied
-  Computer Science, Cryptography, Computer Architecture and Web app development. Also an open-source enthusiast.
+  
 </h3>
 
 <p></p><p></p>
