@@ -1,11 +1,5 @@
 <h2>Dilshan M. Karunarathne (BCS Undergraduate)</h2>
 
-<p></p><p></p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&style=for-the-badge&color=blueviolet" alt="dilshankarunarathne" />
-</div>
-<p></p><p></p>
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="dilshankarunarathne" />
 </div>
