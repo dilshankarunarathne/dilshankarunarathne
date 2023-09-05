@@ -34,5 +34,3 @@
 Since you're here, you may laugh at this joke:
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ff79c6&aColor=%238be9fd&bgColor=%23282a36&textColor=%238be9fd" alt="Jokes Card" />
-
-
