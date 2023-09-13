@@ -1,5 +1,7 @@
 <h1>Dilshan M. Karunarathne (BCS Undergraduate)</h1>
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/dilshankarunarathne.svg)](https://user-badge.committers.top/sri_lanka/dilshankarunarathne)
+
 <span>
 
 <a href="https://dev.to/dilshankarunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dilshankarunarathne" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,8 +19,6 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/dilshankarunarathne.svg)](https://user-badge.committers.top/sri_lanka/dilshankarunarathne)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="dilshankarunarathne" />
 <p></p>
