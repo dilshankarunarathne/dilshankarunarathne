@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/dilshankarunarathne.svg)](https://user-badge.committers.top/sri_lanka/dilshankarunarathne)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="dilshankarunarathne" />
 <p></p>
 
