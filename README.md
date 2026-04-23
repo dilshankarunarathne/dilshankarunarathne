@@ -2,7 +2,7 @@
 Programmer, Entrepreneur
 <br><br>
 
-Sri Lanka Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/dilshankarunarathne.svg)](https://user-badge.committers.top/sri_lanka/dilshankarunarathne)
+# Sri Lanka Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/dilshankarunarathne.svg)](https://user-badge.committers.top/sri_lanka/dilshankarunarathne)
 
 <span>
 
