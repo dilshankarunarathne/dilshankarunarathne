@@ -2,8 +2,6 @@
 Programmer, Entrepreneur
 <br><br>
 
-# Sri Lanka Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/dilshankarunarathne.svg)](https://user-badge.committers.top/sri_lanka/dilshankarunarathne)
-
 <span>
 
 <a href="https://dev.to/dilshankarunarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dilshankarunarathne" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
